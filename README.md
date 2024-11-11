@@ -2,15 +2,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Gilbert+Tetteh;Computer+Science+Student;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 </div>
 
-<p align="center">
-	<a href="https://github.com/gilberttetteh">
-		<img src="https://komarev.com/ghpvc/?username=gilberttetteh&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-	</a>
-	<a href="https://github.com/gilberttetteh">
-		<img src="https://img.shields.io/github/followers/gilberttetteh?label=Followers" alt="followers"/>
-	</a>
-</p>
-
 ## ♑ About me
 
 Hey there! I'm Gilbert Tetteh, a passionate Computer Science student on a mission to demystify complex tech and dive into the world of artificial intelligence. Whether it’s hacking together code, exploring the latest machine learning advancements, or experimenting with new tools, I’m all about hands-on learning and pushing the boundaries of what’s possible.
