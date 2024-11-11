@@ -74,21 +74,6 @@ Hey there! I'm Gilbert Tetteh, a passionate Computer Science student on a missio
 
 <br/>
 
-## 📬 Contact me
-
-<p align=center>
-    <a href="https://github.com/gilberttetteh" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilberttetteh/gilberttetteh/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:g8tetteh@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilberttetteh/gilberttetteh/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
-    </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
----
-
 
 
 ![snake_gif](https://github.com/gilberttetteh/gilberttetteh/blob/output/github-snake.svg)
