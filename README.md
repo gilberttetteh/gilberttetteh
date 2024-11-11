@@ -4,7 +4,7 @@
 
 ## ♑ About me
 
-I am a passionate Computer Science student on a mission to demystify complex tech and dive into the world of artificial intelligence. Whether it’s hacking together code, exploring the latest machine learning advancements, or experimenting with new tools, I’m all about hands-on learning and pushing the boundaries of what’s possible.
+On a mission to demystify complex tech and dive into the world of artificial intelligence. Whether it’s hacking together code, exploring the latest machine learning advancements, or experimenting with new tools, I’m all about hands-on learning and pushing the boundaries of what’s possible.
 <br/>
 
 <br><br>
