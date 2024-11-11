@@ -11,5 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-(https://github.com/gilberttetteh/gilberttetteh/blob/output/github-contribution-grid-snake.svg)
+https://github.com/gilberttetteh/gilberttetteh/blob/output/github-contribution-grid-snake.svg
