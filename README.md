@@ -25,7 +25,13 @@ On a mission to demystify complex tech and dive into the world of artificial int
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![Assembly](https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=for-the-badge&logo=intel&logoColor=white)
-  ![SQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+  ![HTMl](https://img.shields.io/badge/HTML-%234479A1.svg?style=for-the-badge&logo=html&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-%234479A1.svg?style=for-the-badge&logo=css&logoColor=white)
+  
+  
+  
+  
  
 
 <br>
@@ -75,8 +81,6 @@ On a mission to demystify complex tech and dive into the world of artificial int
 </p>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/gilbert-tetteh-8462721b2/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/tetteh04'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 
   
 
