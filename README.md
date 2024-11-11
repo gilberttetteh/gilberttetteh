@@ -2,7 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Gilbert+Tetteh;Computer+Science+Student;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
 </div>
 
-## ♑ About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 On a mission to demystify complex tech and dive into the world of artificial intelligence. Whether it’s hacking together code, exploring the latest machine learning advancements, or experimenting with new tools, I’m all about hands-on learning and pushing the boundaries of what’s possible.
 <br/>
@@ -82,8 +82,11 @@ On a mission to demystify complex tech and dive into the world of artificial int
 </p>
 
 <br/>
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
 
-
+## 🐍 A Snake Eating My Contributions Graph
 ![snake_gif](https://github.com/gilberttetteh/gilberttetteh/blob/output/github-snake.svg)
 
