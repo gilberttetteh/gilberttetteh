@@ -6,4 +6,4 @@
 
 
 
-! [snake_gif](https://github.com/gilberttetteh/gilberttetteh/blob/output/github-contribution-grid-snake.svg)
+![snake_gif](https://github.com/gilberttetteh/gilberttetteh/blob/output/github-contribution-grid-snake.gif)
