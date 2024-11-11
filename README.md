@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-"🌌 Writing code that speaks to machines and whispers to humans. Always debugging life, one line at a time. 📟 | Coder | CS Enthusiast | Lifelong Learner.
+🌌 Writing code that speaks to machines and whispers to humans. Always debugging life, one line at a time. 📟 | Coder | CS Enthusiast | Lifelong Learner.
 <br/>
 
 <br><br>
