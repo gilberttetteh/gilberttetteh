@@ -54,7 +54,7 @@ On a mission to demystify complex tech and dive into the world of artificial int
 
 -----
 
-<p><img align="right" src="https://github.com/gilberttetteh/gilbertetteh/blob/main/animation_500_kxa883sd.gif" alt="gilberttetteh" /></p>
+
 
 
 <br/>
@@ -74,6 +74,11 @@ On a mission to demystify complex tech and dive into the world of artificial int
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/gilbert-tetteh-8462721b2/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/tetteh04'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+
+  
 
 ## 🐍 A Snake Eating My Contributions Graph
 ![snake_gif](https://github.com/gilberttetteh/gilberttetteh/blob/output/github-snake.svg)
