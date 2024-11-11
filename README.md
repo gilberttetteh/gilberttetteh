@@ -1,10 +1,10 @@
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Gilbert+Tetteh;Computer+Science+Student;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Gilbert+Tetteh;Computer+Science+Student;Tech+Enthusiast;Active+Contributor" alt="Typing SVG" /></a>
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-🌌  Always debugging life, one line at a time. 📟 | Coder | CS Enthusiast | Lifelong Learner.
+🌌  Always debugging life, one line at a time. 📟 | Coder | CS Junior | Lifelong Learner.
 <br/>
 
 <br><br>
