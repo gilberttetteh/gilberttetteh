@@ -4,7 +4,7 @@
 
 ## ♑ About me
 
-Hey there! I'm Gilbert Tetteh, a passionate Computer Science student on a mission to demystify complex tech and dive into the world of artificial intelligence. Whether it’s hacking together code, exploring the latest machine learning advancements, or experimenting with new tools, I’m all about hands-on learning and pushing the boundaries of what’s possible.
+I am a passionate Computer Science student on a mission to demystify complex tech and dive into the world of artificial intelligence. Whether it’s hacking together code, exploring the latest machine learning advancements, or experimenting with new tools, I’m all about hands-on learning and pushing the boundaries of what’s possible.
 <br/>
 
 <br><br>
@@ -25,14 +25,8 @@ Hey there! I'm Gilbert Tetteh, a passionate Computer Science student on a missio
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![Assembly](https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=for-the-badge&logo=intel&logoColor=white)
-
-<br>
-
-- **Database Management**:
-
-  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![DBMS](https://img.shields.io/badge/DBMS-%2300A98F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-  ![RStudio](https://img.shields.io/badge/RStudio-%2356B4E9.svg?style=for-the-badge&logo=rstudio&logoColor=white)
+  ![SQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white)
+ 
 
 <br>
 
@@ -42,6 +36,9 @@ Hey there! I'm Gilbert Tetteh, a passionate Computer Science student on a missio
   ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+  ![RStudio](https://img.shields.io/badge/RStudio-%2356B4E9.svg?style=for-the-badge&logo=rstudio&logoColor=white)
+  ![DBMS](https://img.shields.io/badge/DBMS-%2300A98F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+ 
 
 <br>
 
