@@ -70,8 +70,8 @@
 <p align="center">
     <a href="https://github.com/gilberttetteh">
         <img height="180em" src="https://streak-stats.demolab.com?user=gilberttetteh&theme=tokyonight&hide_border=true&border_radius="/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&hide_border=true&layout=compact&theme=tokyonight"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilberttetteh&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberttetteh&hide_border=true&layout=compact&theme=tokyonight"/>
     </a>
 </p>
 
