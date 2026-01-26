@@ -9,7 +9,7 @@
 
 <br><br>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gilberttetteh/count.svg" alt="Visitor Count"/>
+  <img src="https://profile-counter.glitch.me/gilberttetteh/count.png" alt="Visitor Count"/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
