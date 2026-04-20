@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-🌌  Always debugging life, one line at a time. 📟 | Coder | CS Junior | Lifelong Learner.
+🌌  Always debugging life, one line at a time. 📟 | Problem Solver | CS Senior | Lifelong Learner.
 <br/>
 
 <br><br>
